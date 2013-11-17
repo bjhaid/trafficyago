@@ -1,2092 +1,2472 @@
 [
   {
-    "_id": "52884a13c9155f4274000509",
+    "_id": "528928e0c9155fedab0004ff",
     "address": "Western Ave (frontage rd)",
+    "created_at": "2013-11-17T14:36:48-06:00",
     "latitude": 41.941149,
     "location": [
       -87.688219,
       41.941149
     ],
     "longitude": -87.688219,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:48-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000272",
+    "_id": "528928dfc9155fedab000269",
     "address": "Western Ave (over pass)",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.940366,
     "location": [
       -87.688076,
       41.940366
     ],
     "longitude": -87.688076,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400038a",
+    "_id": "528928dfc9155fedab000381",
     "address": "Belmont Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.939496,
     "location": [
       -87.684693,
       41.939496
     ],
     "longitude": -87.684693,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000317",
+    "_id": "528928dfc9155fedab00030e",
     "address": "Addison St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.946727,
     "location": [
       -87.69064,
       41.946727
     ],
     "longitude": -87.69064,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000382",
+    "_id": "528928dfc9155fedab000379",
     "address": "Addison Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.946768,
     "location": [
       -87.6857,
       41.946768
     ],
     "longitude": -87.6857,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000360",
+    "_id": "528928dfc9155fedab000357",
     "address": "Belmont Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.939398,
     "location": [
       -87.696701,
       41.939398
     ],
     "longitude": -87.696701,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003ab",
+    "_id": "528928dfc9155fedab0003a2",
     "address": "Western Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.948031,
     "location": [
       -87.688293,
       41.948031
     ],
     "longitude": -87.688293,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000271",
+    "_id": "528928dfc9155fedab000268",
     "address": "California Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.940634,
     "location": [
       -87.697862,
       41.940634
     ],
     "longitude": -87.697862,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000273",
+    "_id": "528928dfc9155fedab00026a",
     "address": "Damen Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.940256,
     "location": [
       -87.678374,
       41.940256
     ],
     "longitude": -87.678374,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000391",
+    "_id": "528928dfc9155fedab000388",
     "address": "Damen Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.938823,
     "location": [
       -87.678334,
       41.938823
     ],
     "longitude": -87.678334,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000270",
+    "_id": "528928dfc9155fedab000267",
     "address": "Elston Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.940326,
     "location": [
       -87.69968,
       41.940326
     ],
     "longitude": -87.69968,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000363",
+    "_id": "528928dfc9155fedab00035a",
     "address": "California Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.950326,
     "location": [
       -87.698137,
       41.950326
     ],
     "longitude": -87.698137,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000308",
+    "_id": "528928dfc9155fedab0002ff",
     "address": "Irving Park Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.954006,
     "location": [
       -87.689792,
       41.954006
     ],
     "longitude": -87.689792,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000358",
+    "_id": "528928dfc9155fedab00034f",
     "address": "Addison Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.94665,
     "location": [
       -87.70393,
       41.94665
     ],
     "longitude": -87.70393,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400039a",
+    "_id": "528928dfc9155fedab000391",
     "address": "Irving Park Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.954136,
     "location": [
       -87.680217,
       41.954136
     ],
     "longitude": -87.680217,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400026f",
+    "_id": "528928dfc9155fedab000266",
     "address": "Kedzie Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.940356,
     "location": [
       -87.707649,
       41.940356
     ],
     "longitude": -87.707649,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000386",
+    "_id": "528928dfc9155fedab00037d",
     "address": "Ashland Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.945925,
     "location": [
       -87.668832,
       41.945925
     ],
     "longitude": -87.668832,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000388",
+    "_id": "528928dfc9155fedab00037f",
     "address": "Belmont Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.939715,
     "location": [
       -87.667324,
       41.939715
     ],
     "longitude": -87.667324,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000390",
+    "_id": "528928dfc9155fedab000387",
     "address": "Clybourn Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.929133,
     "location": [
       -87.674504,
       41.929133
     ],
     "longitude": -87.674504,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400027a",
+    "_id": "528928dfc9155fedab000271",
     "address": "Ashland Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.947751,
     "location": [
       -87.668879,
       41.947751
     ],
     "longitude": -87.668879,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000367",
+    "_id": "528928dfc9155fedab00035e",
     "address": "Diversey Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.932037,
     "location": [
       -87.705896,
       41.932037
     ],
     "longitude": -87.705896,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400025d",
+    "_id": "528928dfc9155fedab000254",
     "address": "Ashland Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.934063,
     "location": [
       -87.668456,
       41.934063
     ],
     "longitude": -87.668456,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000395",
+    "_id": "528928dfc9155fedab00038c",
     "address": "Diversey Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.932395,
     "location": [
       -87.669002,
       41.932395
     ],
     "longitude": -87.669002,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000392",
+    "_id": "528928dfc9155fedab000389",
     "address": "Damen Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.956405,
     "location": [
       -87.678823,
       41.956405
     ],
     "longitude": -87.678823,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400035d",
+    "_id": "528928dfc9155fedab000354",
     "address": "Belmont Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.939303,
     "location": [
       -87.710743,
       41.939303
     ],
     "longitude": -87.710743,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001fc",
+    "_id": "528928dfc9155fedab0001f3",
     "address": "Western Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.959095,
     "location": [
       -87.688615,
       41.959095
     ],
     "longitude": -87.688615,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400036f",
+    "_id": "528928dfc9155fedab000366",
     "address": "Irving Park Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.953936,
     "location": [
       -87.70545,
       41.953936
     ],
     "longitude": -87.70545,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400025e",
+    "_id": "528928dfc9155fedab000255",
     "address": "Kimball Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.93822,
     "location": [
       -87.712455,
       41.93822
     ],
     "longitude": -87.712455,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000307",
+    "_id": "528928dfc9155fedab0002fe",
     "address": "Irving Park Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.954273,
     "location": [
       -87.670146,
       41.954273
     ],
     "longitude": -87.670146,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000257",
+    "_id": "528928dfc9155fedab00024e",
     "address": "Sacramento Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.925478,
     "location": [
       -87.702337,
       41.925478
     ],
     "longitude": -87.702337,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000373",
+    "_id": "528928dfc9155fedab00036a",
     "address": "Kimball Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.94751,
     "location": [
       -87.71274,
       41.94751
     ],
     "longitude": -87.71274,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003a0",
+    "_id": "528928dfc9155fedab000397",
     "address": "Lincoln Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.960186,
     "location": [
       -87.68299,
       41.960186
     ],
     "longitude": -87.68299,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003ac",
+    "_id": "528928dfc9155fedab0003a3",
     "address": "Western Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.921642,
     "location": [
       -87.687537,
       41.921642
     ],
     "longitude": -87.687537,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002f3",
+    "_id": "528928dfc9155fedab0002ea",
     "address": "Irving Park Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.954295,
     "location": [
       -87.668734,
       41.954295
     ],
     "longitude": -87.668734,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a11c9155f4274000183",
+    "_id": "528928dec9155fedab00017a",
     "address": "Diversey Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.932463,
     "location": [
       -87.664643,
       41.932463
     ],
     "longitude": -87.664643,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f427400025c",
+    "_id": "528928dfc9155fedab000253",
     "address": "Southport Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.934004,
     "location": [
       -87.663612,
       41.934004
     ],
     "longitude": -87.663612,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000378",
+    "_id": "528928dfc9155fedab00036f",
     "address": "Milwaukee Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.931324,
     "location": [
       -87.711125,
       41.931324
     ],
     "longitude": -87.711125,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000280",
+    "_id": "528928dfc9155fedab000277",
     "address": "Ashland Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.955361,
     "location": [
       -87.669076,
       41.955361
     ],
     "longitude": -87.669076,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002d5",
+    "_id": "528928dfc9155fedab0002cc",
     "address": "Sacramento Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.923889,
     "location": [
       -87.70229,
       41.923889
     ],
     "longitude": -87.70229,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400031b",
+    "_id": "528928dfc9155fedab000312",
     "address": "Montrose Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.961351,
     "location": [
       -87.68578,
       41.961351
     ],
     "longitude": -87.68578,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000380",
+    "_id": "528928dfc9155fedab000377",
     "address": "Addison Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.947109,
     "location": [
       -87.661464,
       41.947109
     ],
     "longitude": -87.661464,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400035e",
+    "_id": "528928dfc9155fedab000355",
     "address": "Belmont Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.93923,
     "location": [
       -87.716135,
       41.93923
     ],
     "longitude": -87.716135,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000256",
+    "_id": "528928dfc9155fedab00024d",
     "address": "Kedzie Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.92573,
     "location": [
       -87.707248,
       41.92573
     ],
     "longitude": -87.707248,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400020e",
+    "_id": "528928dfc9155fedab000205",
     "address": "Wrightwood Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.928333,
     "location": [
       -87.710574,
       41.928333
     ],
     "longitude": -87.710574,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400036d",
+    "_id": "528928dfc9155fedab000364",
     "address": "Fullerton Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.924726,
     "location": [
       -87.705876,
       41.924726
     ],
     "longitude": -87.705876,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000258",
+    "_id": "528928dfc9155fedab00024f",
     "address": "Ashland Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.926152,
     "location": [
       -87.668181,
       41.926152
     ],
     "longitude": -87.668181,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003a5",
+    "_id": "528928dfc9155fedab00039c",
     "address": "Racine Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.942424,
     "location": [
       -87.659044,
       41.942424
     ],
     "longitude": -87.659044,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400025f",
+    "_id": "528928dfc9155fedab000256",
     "address": "Kimball Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.928608,
     "location": [
       -87.712206,
       41.928608
     ],
     "longitude": -87.712206,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000250",
+    "_id": "528928dfc9155fedab000247",
     "address": "Damen Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.920367,
     "location": [
       -87.677714,
       41.920367
     ],
     "longitude": -87.677714,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400020f",
+    "_id": "528928dfc9155fedab000206",
     "address": "Fullerton Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.924697,
     "location": [
       -87.709117,
       41.924697
     ],
     "longitude": -87.709117,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000260",
+    "_id": "528928dfc9155fedab000257",
     "address": "Central Park Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.933649,
     "location": [
       -87.717233,
       41.933649
     ],
     "longitude": -87.717233,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000251",
+    "_id": "528928dfc9155fedab000248",
     "address": "Milwaukee Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.918295,
     "location": [
       -87.689798,
       41.918295
     ],
     "longitude": -87.689798,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400027f",
+    "_id": "528928dfc9155fedab000276",
     "address": "Damen Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.963061,
     "location": [
       -87.679019,
       41.963061
     ],
     "longitude": -87.679019,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000389",
+    "_id": "528928dfc9155fedab000380",
     "address": "Belmont Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.939866,
     "location": [
       -87.657012,
       41.939866
     ],
     "longitude": -87.657012,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003a3",
+    "_id": "528928dfc9155fedab00039a",
     "address": "Montrose Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.961538,
     "location": [
       -87.673156,
       41.961538
     ],
     "longitude": -87.673156,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000318",
+    "_id": "528928dfc9155fedab00030f",
     "address": "Armitage Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.917591,
     "location": [
       -87.686072,
       41.917591
     ],
     "longitude": -87.686072,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001ca",
+    "_id": "528928dec9155fedab0001c1",
     "address": "Clybourn Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.923528,
     "location": [
       -87.667066,
       41.923528
     ],
     "longitude": -87.667066,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000279",
+    "_id": "528928dfc9155fedab000270",
     "address": "Clark St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.94979,
     "location": [
       -87.658602,
       41.94979
     ],
     "longitude": -87.658602,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000397",
+    "_id": "528928dfc9155fedab00038e",
     "address": "Fullerton Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.925199,
     "location": [
       -87.664619,
       41.925199
     ],
     "longitude": -87.664619,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400021c",
+    "_id": "528928dfc9155fedab000213",
     "address": "Western Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.964867,
     "location": [
       -87.688793,
       41.964867
     ],
     "longitude": -87.688793,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000364",
+    "_id": "528928dfc9155fedab00035b",
     "address": "California Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.918317,
     "location": [
       -87.697223,
       41.918317
     ],
     "longitude": -87.697223,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000306",
+    "_id": "528928dfc9155fedab0002fd",
     "address": "Armitage Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.917529,
     "location": [
       -87.692627,
       41.917529
     ],
     "longitude": -87.692627,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001a2",
+    "_id": "528928dec9155fedab000199",
     "address": "Wrightwood Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.928267,
     "location": [
       -87.716068,
       41.928267
     ],
     "longitude": -87.716068,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000227",
+    "_id": "528928dfc9155fedab00021e",
     "address": "Belmont Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.939165,
     "location": [
       -87.721399,
       41.939165
     ],
     "longitude": -87.721399,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000274",
+    "_id": "528928dfc9155fedab00026b",
     "address": "Sheffield Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.940796,
     "location": [
       -87.654132,
       41.940796
     ],
     "longitude": -87.654132,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000383",
+    "_id": "528928dfc9155fedab00037a",
     "address": "Armitage Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.91781,
     "location": [
       -87.674797,
       41.91781
     ],
     "longitude": -87.674797,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002d9",
+    "_id": "528928dfc9155fedab0002d0",
     "address": "Milwaukee Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.938251,
     "location": [
       -87.72247,
       41.938251
     ],
     "longitude": -87.72247,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a11c9155f4274000180",
+    "_id": "528928dec9155fedab000177",
     "address": "Montrose Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.961614,
     "location": [
       -87.667445,
       41.961614
     ],
     "longitude": -87.667445,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000399",
+    "_id": "528928dfc9155fedab000390",
     "address": "Irving Park Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.95443,
     "location": [
       -87.658524,
       41.95443
     ],
     "longitude": -87.658524,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003a6",
+    "_id": "528928dfc9155fedab00039d",
     "address": "Racine Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.927677,
     "location": [
       -87.65853,
       41.927677
     ],
     "longitude": -87.65853,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000374",
+    "_id": "528928dfc9155fedab00036b",
     "address": "Kimball Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.92195,
     "location": [
       -87.712021,
       41.92195
     ],
     "longitude": -87.712021,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003aa",
+    "_id": "528928dfc9155fedab0003a1",
     "address": "Southport Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.92249,
     "location": [
       -87.663226,
       41.92249
     ],
     "longitude": -87.663226,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400025b",
+    "_id": "528928dfc9155fedab000252",
     "address": "Sheffield Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.933448,
     "location": [
       -87.653886,
       41.933448
     ],
     "longitude": -87.653886,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000368",
+    "_id": "528928dfc9155fedab00035f",
     "address": "Diversey Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.931846,
     "location": [
       -87.722476,
       41.931846
     ],
     "longitude": -87.722476,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003ae",
+    "_id": "528928dfc9155fedab0003a5",
     "address": "Western Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.913995,
     "location": [
       -87.687313,
       41.913995
     ],
     "longitude": -87.687313,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400039e",
+    "_id": "528928dfc9155fedab000395",
     "address": "Lawrence Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.968642,
     "location": [
       -87.687081,
       41.968642
     ],
     "longitude": -87.687081,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000381",
+    "_id": "528928dfc9155fedab000378",
     "address": "Addison Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.947284,
     "location": [
       -87.651946,
       41.947284
     ],
     "longitude": -87.651946,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400027e",
+    "_id": "528928dfc9155fedab000275",
     "address": "Elston Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.954748,
     "location": [
       -87.720647,
       41.954748
     ],
     "longitude": -87.720647,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000394",
+    "_id": "528928dfc9155fedab00038b",
     "address": "Damen Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.914612,
     "location": [
       -87.677552,
       41.914612
     ],
     "longitude": -87.677552,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000361",
+    "_id": "528928dfc9155fedab000358",
     "address": "Belmont Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.939113,
     "location": [
       -87.725535,
       41.939113
     ],
     "longitude": -87.725535,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002d4",
+    "_id": "528928dfc9155fedab0002cb",
     "address": "Racine Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.92351,
     "location": [
       -87.658394,
       41.92351
     ],
     "longitude": -87.658394,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000275",
+    "_id": "528928dfc9155fedab00026c",
     "address": "Halsted St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.940877,
     "location": [
       -87.649294,
       41.940877
     ],
     "longitude": -87.649294,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400035b",
+    "_id": "528928dfc9155fedab000352",
     "address": "Armitage Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.917357,
     "location": [
       -87.710662,
       41.917357
     ],
     "longitude": -87.710662,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400036b",
+    "_id": "528928dfc9155fedab000362",
     "address": "Fullerton Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.924561,
     "location": [
       -87.720455,
       41.924561
     ],
     "longitude": -87.720455,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000376",
+    "_id": "528928dfc9155fedab00036d",
     "address": "Lawrence Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.968506,
     "location": [
       -87.702152,
       41.968506
     ],
     "longitude": -87.702152,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000370",
+    "_id": "528928dfc9155fedab000367",
     "address": "Irving Park Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.953695,
     "location": [
       -87.724462,
       41.953695
     ],
     "longitude": -87.724462,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000278",
+    "_id": "528928dfc9155fedab00026f",
     "address": "Halsted St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.948965,
     "location": [
       -87.649538,
       41.948965
     ],
     "longitude": -87.649538,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002db",
+    "_id": "528928dfc9155fedab0002d2",
     "address": "Kedzie Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.966963,
     "location": [
       -87.708429,
       41.966963
     ],
     "longitude": -87.708429,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001f1",
+    "_id": "528928dfc9155fedab0001e8",
     "address": "Addison St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.947325,
     "location": [
       -87.648813,
       41.947325
     ],
     "longitude": -87.648813,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000393",
+    "_id": "528928dfc9155fedab00038a",
     "address": "Damen Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.970422,
     "location": [
       -87.679234,
       41.970422
     ],
     "longitude": -87.679234,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000261",
+    "_id": "528928dfc9155fedab000258",
     "address": "Pulaski Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.932562,
     "location": [
       -87.727001,
       41.932562
     ],
     "longitude": -87.727001,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400025a",
+    "_id": "528928dfc9155fedab000251",
     "address": "Halsted St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.933425,
     "location": [
       -87.649035,
       41.933425
     ],
     "longitude": -87.649035,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400037e",
+    "_id": "528928dfc9155fedab000375",
     "address": "Pulaski Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.94889,
     "location": [
       -87.727471,
       41.94889
     ],
     "longitude": -87.727471,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002d7",
+    "_id": "528928dfc9155fedab0002ce",
     "address": "Pulaski Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.931151,
     "location": [
       -87.726959,
       41.931151
     ],
     "longitude": -87.726959,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002d8",
+    "_id": "528928dfc9155fedab0002cf",
     "address": "Halsted St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.931822,
     "location": [
       -87.648979,
       41.931822
     ],
     "longitude": -87.648979,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003a2",
+    "_id": "528928dfc9155fedab000399",
     "address": "Milwaukee Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.911246,
     "location": [
       -87.678799,
       41.911246
     ],
     "longitude": -87.678799,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001a7",
+    "_id": "528928dec9155fedab00019e",
     "address": "Wilson Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.965326,
     "location": [
       -87.662564,
       41.965326
     ],
     "longitude": -87.662564,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000277",
+    "_id": "528928dfc9155fedab00026e",
     "address": "Broadway",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.948385,
     "location": [
       -87.647898,
       41.948385
     ],
     "longitude": -87.647898,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001f2",
+    "_id": "528928dfc9155fedab0001e9",
     "address": "Belmont Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.940016,
     "location": [
       -87.646727,
       41.940016
     ],
     "longitude": -87.646727,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400038c",
+    "_id": "528928dfc9155fedab000383",
     "address": "Broadway",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.955468,
     "location": [
       -87.651123,
       41.955468
     ],
     "longitude": -87.651123,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002da",
+    "_id": "528928dfc9155fedab0002d1",
     "address": "Broadway",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.946355,
     "location": [
       -87.646666,
       41.946355
     ],
     "longitude": -87.646666,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003ad",
+    "_id": "528928dfc9155fedab0003a4",
     "address": "Western Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.972841,
     "location": [
       -87.689047,
       41.972841
     ],
     "longitude": -87.689047,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002eb",
+    "_id": "528928dfc9155fedab0002e2",
     "address": "Western Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.909315,
     "location": [
       -87.687195,
       41.909315
     ],
     "longitude": -87.687195,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000192",
+    "_id": "528928dec9155fedab000189",
     "address": "Addison St",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.9477,
     "location": [
       -87.646232,
       41.9477
     ],
     "longitude": -87.646232,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f427400024b",
+    "_id": "528928dfc9155fedab000242",
     "address": "Kimball Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.914325,
     "location": [
       -87.71182,
       41.914325
     ],
     "longitude": -87.71182,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400037a",
+    "_id": "528928dfc9155fedab000371",
     "address": "North Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.910184,
     "location": [
       -87.700364,
       41.910184
     ],
     "longitude": -87.700364,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000212",
+    "_id": "528928dfc9155fedab000209",
     "address": "Lawrence Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.968422,
     "location": [
       -87.711419,
       41.968422
     ],
     "longitude": -87.711419,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000379",
+    "_id": "528928dfc9155fedab000370",
     "address": "Montrose Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.961009,
     "location": [
       -87.722889,
       41.961009
     ],
     "longitude": -87.722889,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400027d",
+    "_id": "528928dfc9155fedab000274",
     "address": "Pulaski Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.955447,
     "location": [
       -87.727666,
       41.955447
     ],
     "longitude": -87.727666,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400035a",
+    "_id": "528928dfc9155fedab000351",
     "address": "Armitage Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.917263,
     "location": [
       -87.71828,
       41.917263
     ],
     "longitude": -87.71828,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000282",
+    "_id": "528928dfc9155fedab000279",
     "address": "Sheridan Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.962457,
     "location": [
       -87.654755,
       41.962457
     ],
     "longitude": -87.654755,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400038b",
+    "_id": "528928dfc9155fedab000382",
     "address": "Broadway",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.938295,
     "location": [
       -87.644341,
       41.938295
     ],
     "longitude": -87.644341,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000371",
+    "_id": "528928dfc9155fedab000368",
     "address": "Kedzie Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.970273,
     "location": [
       -87.708529,
       41.970273
     ],
     "longitude": -87.708529,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001ed",
+    "_id": "528928dfc9155fedab0001e4",
     "address": "Pulaski Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.924943,
     "location": [
       -87.726783,
       41.924943
     ],
     "longitude": -87.726783,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400039c",
+    "_id": "528928dfc9155fedab000393",
     "address": "Lawrence Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.968951,
     "location": [
       -87.66443,
       41.968951
     ],
     "longitude": -87.66443,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400024f",
+    "_id": "528928dfc9155fedab000246",
     "address": "Ashland Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.911509,
     "location": [
       -87.667716,
       41.911509
     ],
     "longitude": -87.667716,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001af",
+    "_id": "528928dec9155fedab0001a6",
     "address": "North Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.910585,
     "location": [
       -87.669739,
       41.910585
     ],
     "longitude": -87.669739,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003f9",
+    "_id": "528928dfc9155fedab0003f0",
     "address": "Damen Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.908546,
     "location": [
       -87.677409,
       41.908546
     ],
     "longitude": -87.677409,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000276",
+    "_id": "528928dfc9155fedab00026d",
     "address": "Lake Shore Inner Dr",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.949054,
     "location": [
       -87.643703,
       41.949054
     ],
     "longitude": -87.643703,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000216",
+    "_id": "528928dfc9155fedab00020d",
     "address": "Fullerton Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.924462,
     "location": [
       -87.728691,
       41.924462
     ],
     "longitude": -87.728691,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000366",
+    "_id": "528928dfc9155fedab00035d",
     "address": "Central Park Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.913289,
     "location": [
       -87.716646,
       41.913289
     ],
     "longitude": -87.716646,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400036a",
+    "_id": "528928dfc9155fedab000361",
     "address": "Foster Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.975838,
     "location": [
       -87.696482,
       41.975838
     ],
     "longitude": -87.696482,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000385",
+    "_id": "528928dfc9155fedab00037c",
     "address": "Armitage Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.91812,
     "location": [
       -87.652282,
       41.91812
     ],
     "longitude": -87.652282,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400037c",
+    "_id": "528928dfc9155fedab000373",
     "address": "North Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.910066,
     "location": [
       -87.710829,
       41.910066
     ],
     "longitude": -87.710829,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000217",
+    "_id": "528928dfc9155fedab00020e",
     "address": "Diversey Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.931692,
     "location": [
       -87.734385,
       41.931692
     ],
     "longitude": -87.734385,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000289",
+    "_id": "528928dfc9155fedab000280",
     "address": "Western Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.976829,
     "location": [
       -87.689187,
       41.976829
     ],
     "longitude": -87.689187,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400039d",
+    "_id": "528928dfc9155fedab000394",
     "address": "Lawrence Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.969057,
     "location": [
       -87.657171,
       41.969057
     ],
     "longitude": -87.657171,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000283",
+    "_id": "528928dfc9155fedab00027a",
     "address": "Pulaski Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.962267,
     "location": [
       -87.727863,
       41.962267
     ],
     "longitude": -87.727863,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000281",
+    "_id": "528928dfc9155fedab000278",
     "address": "Clarendon St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.963669,
     "location": [
       -87.649966,
       41.963669
     ],
     "longitude": -87.649966,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400026e",
+    "_id": "528928dfc9155fedab000265",
     "address": "Milwaukee Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.946769,
     "location": [
       -87.736449,
       41.946769
     ],
     "longitude": -87.736449,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400036e",
+    "_id": "528928dfc9155fedab000365",
     "address": "Irving Park Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.953576,
     "location": [
       -87.734092,
       41.953576
     ],
     "longitude": -87.734092,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000387",
+    "_id": "528928dfc9155fedab00037e",
     "address": "Ashland Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.974889,
     "location": [
       -87.669587,
       41.974889
     ],
     "longitude": -87.669587,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400019f",
+    "_id": "528928dec9155fedab000196",
     "address": "North Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.910014,
     "location": [
       -87.713878,
       41.910014
     ],
     "longitude": -87.713878,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f427400037d",
+    "_id": "528928dfc9155fedab000374",
     "address": "Pulaski Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.918169,
     "location": [
       -87.72659,
       41.918169
     ],
     "longitude": -87.72659,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000398",
+    "_id": "528928dfc9155fedab00038f",
     "address": "Halsted St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.919237,
     "location": [
       -87.648548,
       41.919237
     ],
     "longitude": -87.648548,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001b0",
+    "_id": "528928dec9155fedab0001a7",
     "address": "Foster Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.976144,
     "location": [
       -87.671622,
       41.976144
     ],
     "longitude": -87.671622,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000262",
+    "_id": "528928dfc9155fedab000259",
     "address": "Kostner Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.932608,
     "location": [
       -87.736835,
       41.932608
     ],
     "longitude": -87.736835,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002a3",
+    "_id": "528928dfc9155fedab00029a",
     "address": "Western Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.903947,
     "location": [
       -87.687051,
       41.903947
     ],
     "longitude": -87.687051,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400039b",
+    "_id": "528928dfc9155fedab000392",
     "address": "Lakeview Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.93136,
     "location": [
       -87.639326,
       41.93136
     ],
     "longitude": -87.639326,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003e1",
+    "_id": "528928dfc9155fedab0003d8",
     "address": "Ashland Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.906421,
     "location": [
       -87.667574,
       41.906421
     ],
     "longitude": -87.667574,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001c9",
+    "_id": "528928dec9155fedab0001c0",
     "address": "Fullerton Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.925567,
     "location": [
       -87.641535,
       41.925567
     ],
     "longitude": -87.641535,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003fe",
+    "_id": "528928dfc9155fedab0003f5",
     "address": "Division St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.902958,
     "location": [
       -87.693225,
       41.902958
     ],
     "longitude": -87.693225,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a13c9155f427400046a",
+    "_id": "528928dfc9155fedab000460",
     "address": "Elston Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.962199,
     "location": [
       -87.73154,
       41.962199
     ],
     "longitude": -87.73154,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001cc",
+    "_id": "528928dec9155fedab0001c3",
     "address": "Lawrence Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.968273,
     "location": [
       -87.724989,
       41.968273
     ],
     "longitude": -87.724989,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001a8",
+    "_id": "528928dec9155fedab00019f",
     "address": "Foster Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.976215,
     "location": [
       -87.666782,
       41.976215
     ],
     "longitude": -87.666782,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002f1",
+    "_id": "528928dfc9155fedab0002e8",
     "address": "Lawrence Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.96912,
     "location": [
       -87.652496,
       41.96912
     ],
     "longitude": -87.652496,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000400",
+    "_id": "528928dfc9155fedab0003f7",
     "address": "Division St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.903168,
     "location": [
       -87.678437,
       41.903168
     ],
     "longitude": -87.678437,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000288",
+    "_id": "528928dfc9155fedab00027f",
     "address": "Kedzie Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.976775,
     "location": [
       -87.708705,
       41.976775
     ],
     "longitude": -87.708705,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000259",
+    "_id": "528928dfc9155fedab000250",
     "address": "Lake Shore Inner Dr",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.934544,
     "location": [
       -87.636704,
       41.934544
     ],
     "longitude": -87.636704,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001e8",
+    "_id": "528928dfc9155fedab0001df",
     "address": "Division St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.903211,
     "location": [
       -87.67591,
       41.903211
     ],
     "longitude": -87.67591,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400030f",
+    "_id": "528928dfc9155fedab000306",
     "address": "Division St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.902909,
     "location": [
       -87.698743,
       41.902909
     ],
     "longitude": -87.698743,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400038d",
+    "_id": "528928dfc9155fedab000384",
     "address": "Broadway",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.974157,
     "location": [
       -87.659809,
       41.974157
     ],
     "longitude": -87.659809,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400037b",
+    "_id": "528928dfc9155fedab000372",
     "address": "North Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.909944,
     "location": [
       -87.720823,
       41.909944
     ],
     "longitude": -87.720823,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400039f",
+    "_id": "528928dfc9155fedab000396",
     "address": "Lincoln Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.920951,
     "location": [
       -87.642481,
       41.920951
     ],
     "longitude": -87.642481,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000362",
+    "_id": "528928dfc9155fedab000359",
     "address": "California Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.980023,
     "location": [
       -87.699055,
       41.980023
     ],
     "longitude": -87.699055,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000359",
+    "_id": "528928dfc9155fedab000350",
     "address": "Addison Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.946193,
     "location": [
       -87.741344,
       41.946193
     ],
     "longitude": -87.741344,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003a9",
+    "_id": "528928dfc9155fedab0003a0",
     "address": "Sheridan Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.972386,
     "location": [
       -87.654903,
       41.972386
     ],
     "longitude": -87.654903,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000384",
+    "_id": "528928dfc9155fedab00037b",
     "address": "Armitage Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.918245,
     "location": [
       -87.644208,
       41.918245
     ],
     "longitude": -87.644208,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001e7",
+    "_id": "528928dfc9155fedab0001de",
     "address": "Division St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.902865,
     "location": [
       -87.703662,
       41.902865
     ],
     "longitude": -87.703662,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400030b",
+    "_id": "528928dfc9155fedab000302",
     "address": "Foster Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.97567,
     "location": [
       -87.715464,
       41.97567
     ],
     "longitude": -87.715464,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003a4",
+    "_id": "528928dfc9155fedab00039b",
     "address": "North Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.910853,
     "location": [
       -87.652267,
       41.910853
     ],
     "longitude": -87.652267,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002bd",
+    "_id": "528928dfc9155fedab0002b4",
     "address": "Armitage Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.917095,
     "location": [
       -87.732056,
       41.917095
     ],
     "longitude": -87.732056,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000424",
+    "_id": "528928dfc9155fedab00041b",
     "address": "Milwaukee Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.903687,
     "location": [
       -87.667,
       41.903687
     ],
     "longitude": -87.667,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000375",
+    "_id": "528928dfc9155fedab00036c",
     "address": "Kostner Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.921651,
     "location": [
       -87.736467,
       41.921651
     ],
     "longitude": -87.736467,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400035f",
+    "_id": "528928dfc9155fedab000356",
     "address": "Belmont Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.938878,
     "location": [
       -87.743194,
       41.938878
     ],
     "longitude": -87.743194,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003bd",
+    "_id": "528928dfc9155fedab0003b4",
     "address": "Western Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.900187,
     "location": [
       -87.686957,
       41.900187
     ],
     "longitude": -87.686957,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002a2",
+    "_id": "528928dfc9155fedab000299",
     "address": "Homan Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.903995,
     "location": [
       -87.711714,
       41.903995
     ],
     "longitude": -87.711714,
-    "situation": "go slow"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000252",
+    "_id": "528928dfc9155fedab000249",
     "address": "Pulaski Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.911129,
     "location": [
       -87.72637,
       41.911129
     ],
     "longitude": -87.72637,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002df",
+    "_id": "528928dfc9155fedab0002d6",
     "address": "Lincoln  Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.982351,
     "location": [
       -87.693821,
       41.982351
     ],
     "longitude": -87.693821,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003a1",
+    "_id": "528928dfc9155fedab000398",
     "address": "Marine Dr",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.971671,
     "location": [
       -87.650428,
       41.971671
     ],
     "longitude": -87.650428,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000310",
+    "_id": "528928dfc9155fedab000307",
     "address": "Augusta Blvd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.899355,
     "location": [
       -87.689356,
       41.899355
     ],
     "longitude": -87.689356,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000396",
+    "_id": "528928dfc9155fedab00038d",
     "address": "Foster Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.97636,
     "location": [
       -87.657362,
       41.97636
     ],
     "longitude": -87.657362,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000369",
+    "_id": "528928dfc9155fedab000360",
     "address": "Diversey Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.931576,
     "location": [
       -87.743265,
       41.931576
     ],
     "longitude": -87.743265,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400028a",
+    "_id": "528928dfc9155fedab000281",
     "address": "Broadway",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.977627,
     "location": [
       -87.659904,
       41.977627
     ],
     "longitude": -87.659904,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740002ec",
+    "_id": "528928dfc9155fedab0002e3",
     "address": "Milwaukee Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.90238,
     "location": [
       -87.66496,
       41.90238
     ],
     "longitude": -87.66496,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003e4",
+    "_id": "528928dfc9155fedab0003db",
     "address": "Augusta Blvd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.899615,
     "location": [
       -87.67336,
       41.899615
     ],
     "longitude": -87.67336,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003e5",
+    "_id": "528928dfc9155fedab0003dc",
     "address": "Augusta Blvd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.899222,
     "location": [
       -87.703584,
       41.899222
     ],
     "longitude": -87.703584,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a13c9155f42740004aa",
+    "_id": "528928dfc9155fedab0004a0",
     "address": "Pulaski Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.973067,
     "location": [
       -87.728161,
       41.973067
     ],
     "longitude": -87.728161,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000372",
+    "_id": "528928dfc9155fedab000369",
     "address": "Kimball Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.98049,
     "location": [
       -87.713663,
       41.98049
     ],
     "longitude": -87.713663,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400026c",
+    "_id": "528928dfc9155fedab000263",
     "address": "Cicero Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.940497,
     "location": [
       -87.746913,
       41.940497
     ],
     "longitude": -87.746913,
-    "situation": "straight on no stopping"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000377",
+    "_id": "528928dfc9155fedab00036e",
     "address": "Lawrence Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.968165,
     "location": [
       -87.734816,
       41.968165
     ],
     "longitude": -87.734816,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000224",
+    "_id": "528928dfc9155fedab00021b",
     "address": "Foster Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.976427,
     "location": [
       -87.652889,
       41.976427
     ],
     "longitude": -87.652889,
-    "situation": "go slow"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400042c",
+    "_id": "528928dfc9155fedab000423",
     "address": "Pulaski Rd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.907466,
     "location": [
       -87.726445,
       41.907466
     ],
     "longitude": -87.726445,
-    "situation": "bumper to bumper"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000263",
+    "_id": "528928dfc9155fedab00025a",
     "address": "Cicero Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.9329,
     "location": [
       -87.746649,
       41.9329
     ],
     "longitude": -87.746649,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400026d",
+    "_id": "528928dfc9155fedab000264",
     "address": "Cicero Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.947548,
     "location": [
       -87.747128,
       41.947548
     ],
     "longitude": -87.747128,
-    "situation": "bumper to bumper"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001e6",
+    "_id": "528928dfc9155fedab0001dd",
     "address": "Grand Ave",
+    "created_at": "2013-11-17T14:36:46-06:00",
     "latitude": 41.90103,
     "location": [
       -87.713491,
       41.90103
     ],
     "longitude": -87.713491,
-    "situation": "straight on no stopping"
+    "situation": "straight on no stopping",
+    "updated_at": "2013-11-17T14:36:46-06:00"
   },
   {
-    "_id": "52884a12c9155f42740003fd",
+    "_id": "528928dfc9155fedab0003f4",
     "address": "Division St",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.902739,
     "location": [
       -87.718482,
       41.902739
     ],
     "longitude": -87.718482,
-    "situation": "go slow"
+    "situation": "go slow",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f427400035c",
+    "_id": "528928dfc9155fedab000353",
     "address": "Armitage Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.917017,
     "location": [
       -87.73874,
       41.917017
     ],
     "longitude": -87.73874,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f42740001e9",
+    "_id": "528928dfc9155fedab0001e0",
     "address": "Augusta Blvd",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.899743,
     "location": [
       -87.66515,
       41.899743
     ],
     "longitude": -87.66515,
-    "situation": "bumper to bumper"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   },
   {
-    "_id": "52884a12c9155f4274000405",
+    "_id": "528928dfc9155fedab0003fc",
     "address": "Grand Ave",
+    "created_at": "2013-11-17T14:36:47-06:00",
     "latitude": 41.905556,
     "location": [
       -87.724905,
       41.905556
     ],
     "longitude": -87.724905,
-    "situation": "straight on no stopping"
+    "situation": "bumper to bumper",
+    "updated_at": "2013-11-17T14:36:47-06:00"
   }
 ]
