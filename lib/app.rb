@@ -17,7 +17,7 @@ class TrafficyagoApp < Sinatra::Base
   end
 
   post '/search_traffic_around', :provides => :json do
-    params = JSON.parse(request.env["rack.input"].read)
+    params = JSON.parse(request.body.read)
     content_type :json
     traffic_search.around(params["location"]).to_json
   end
