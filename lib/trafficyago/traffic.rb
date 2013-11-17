@@ -2,6 +2,7 @@ require 'mongoid'
 
 class Traffic
   include ::Mongoid::Document
+  include ::Mongoid::Timestamps
   field :location, type: Array
   index({location: '2dsphere'}, {min: -180, max: 180})
   field :longitude, type: Float
