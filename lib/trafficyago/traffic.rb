@@ -14,7 +14,7 @@ class Traffic
     if !(longitude.nil? || latitude.nil?)
       self[:location] = [longitude.to_f,latitude.to_f]
     elsif !address.nil?
-      self[:location] = Geocoder.coordinates(address)
+      self[:location] = Geocoder.coordinates(address).reverse
     else
       self[:location]
     end
@@ -50,7 +50,7 @@ class Traffic
 
   def address
     if self[:address].nil? && !location.nil?
-      Geocoder.address(location.join(","))
+      Geocoder.address(location.reverse.join(","))
     else
       self[:address]
     end
