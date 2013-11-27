@@ -14,24 +14,26 @@ class TrafficyagoApp < Sinatra::Base
 
   Rabl.register!
 
-  def traffic_search
-    TrafficSearch.new
-  end
-
-  def traffic_helper &block
-    request.body.rewind
-    data = request.body.read
-    if data.empty?
-      @status = "failed"
-      @message = "Empty Request" 
-      halt 400, (rabl :error, :format => 'json')
+  helpers do
+    def traffic_search
+      TrafficSearch.new
     end
-    params = JSON.parse(data)
-    content_type :json
-    @traffics = (yield params)
-    rabl :traffic_search, :format => 'json'
+
+    def traffic_helper &block
+      request.body.rewind
+      data = request.body.read
+      if data.empty?
+        @status = "failed"
+        @message = "Empty Request" 
+        halt 400, (rabl :error, :format => 'json')
+      end
+      params = JSON.parse(data)
+      content_type :json
+      @traffics = (yield params)
+      rabl :traffic_search, :format => 'json'
+    end
+    protected :traffic_helper
   end
-  protected :traffic_helper
 
   get '/' do
     flash[:notice] = "Thanks for visiting"

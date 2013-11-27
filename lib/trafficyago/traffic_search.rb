@@ -4,15 +4,16 @@ class TrafficSearch
   end
 
   def between_coordinates pointA, pointB
-    Traffic.within_box location: [pointA,pointB]
+    resultA = Traffic.where(:location.within_box => [pointA,pointB])
+    resultB = Traffic.where(:location.within_box => [pointB,pointA])
+    resultA << resultB
+    resultA
   end
 
   def between_addresses addressA, addressB
     trafficA, trafficB = Traffic.new, Traffic.new
     trafficA.address = addressA
     trafficB.address = addressB
-    trafficA.location
-    trafficB.location
     between_coordinates(trafficA.location, trafficB.location)
   end
 
